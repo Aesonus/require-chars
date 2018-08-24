@@ -1,0 +1,21 @@
+{
+    "name": "aesonus/require-chars",
+    "description": "Custom validation rules for password complexity requirements",
+    "authors": [
+        {
+            "name": "Aesonus",
+            "email": "corylcomposinger@gmail.com"
+        }
+    ],
+    "require": {
+        "respect/validation": "^1.1"
+    },
+    "require-dev": {
+        "aesonus/test-lib": "^2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aesonus\\RequireChars\\": "src/"
+        }
+    }
+}
