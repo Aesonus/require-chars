@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the slenderman/authentication project.
+ * This file is part of the aesonus/require-chars project.
  *
  * (c) Cory Laughlin <corylcomposinger@gmail.com>
  *
